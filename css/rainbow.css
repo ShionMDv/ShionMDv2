@@ -1,5 +1,5 @@
  .rainbow{
-  height:2px;
+  height:3px;
   background: -webkit-linear-gradient(left, red,orange,yellow,green,blue,indigo,violet);
   background: -moz-linear-gradient(left, red,orange,yellow,green,blue,indigo,violet,red);
   background: -o-linear-gradient(left, red,orange,yellow,green,blue,indigo,violet,red);

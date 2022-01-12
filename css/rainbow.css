@@ -1,0 +1,42 @@
+ .rainbow{
+  height:2px;
+  background: -webkit-linear-gradient(left, red,orange,yellow,green,blue,indigo,violet);
+  background: -moz-linear-gradient(left, red,orange,yellow,green,blue,indigo,violet,red);
+  background: -o-linear-gradient(left, red,orange,yellow,green,blue,indigo,violet,red);
+  background: -ms-linear-gradient(left, red,orange,yellow,green,blue,indigo,violet,red);
+  background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet,red);
+  background-repeat:repeat-x;
+  
+  -webkit-animation:go 1s linear infinite;
+  -moz-animation:go 1s linear infinite;
+  -o-animation:go 1s linear infinite;
+  -ms-animation:go 1s linear infinite;
+  animation:go 1s linear infinite;
+}
+
+@-webkit-keyframes go{
+  0%{background-position:0;}
+  100%{background-position:200px 0;}
+
+}
+@-moz-keyframes go{
+  0%{background-position:0;}
+  50%{background-position:100px 0;}
+  100%{background-position:200px 0;}
+
+}
+@-o-keyframes go{
+  0%{background-position:0;}
+  100%{background-position:200px 0;}
+
+}
+@-ms-keyframes go{
+  0%{background-position:0;}
+  100%{background-position:200px 0;}
+
+}
+@keyframes go{
+  0%{background-position:0;}
+  100%{background-position:200px 0;}
+
+}

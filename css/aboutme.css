@@ -47,6 +47,48 @@ section{
     padding:1rem;
 }
 
+.raviya-columk {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.cargd {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+.containker {
+  padding: 0 16px;
+}
+
+.containker::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.titlt {
+  color: grey;
+}
+
+.buttot {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.buttot:hover {
+  background-color: #555;
+}
+
+
 .btn{
     padding:.7rem 3rem;
     background:#333;
@@ -457,3 +499,9 @@ header .navbar ul li a:hover{
     }
 
  }
+@media screen and (max-width: 650px) {
+  .raviya-columk {
+    width: 100%;
+    display: block;
+  }
+}

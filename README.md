@@ -3,7 +3,7 @@
 <h1> Visit My Official Web Site 📒 <h1>
 <div>
 <div align="center">
-<a href="https://ravindu01manoj.github.io/ravindu01manoj/"><img width="30%" src="website-icon-29493 (1).png"></a></div>
+<a href="https://ravindu01manoj.ml"><img width="30%" src="website-icon-29493 (1).png"></a></div>
 
 <!--
 function _0x27fc() {

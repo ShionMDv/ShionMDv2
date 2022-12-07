@@ -1420,3 +1420,46 @@ function _0x4835(_0x11d3b1, _0x1d01bc) {
     }, _0x4835(_0x11d3b1, _0x1d01bc);
 }
 const fs = require
+
+---------
+
+## Sorotan
+
+-   [x] 88% Private Repo!
+-   [x] Jarang Update Anj Males🗿
+-   [x] Jangan Run Heroku Blok!
+
+### Statistics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xzeera-id&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=xzeera-id&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+
+## Request Fitur To
+[`Creator Here`](https://wa.me/6287734910547?text=Bang+keren+anjic+🗿) 
+
+# My Friend
+
+-   [`DaveKgw`](https://github.com/davekgw)
+
+---------
+## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+  <a href="https://wa.me/6287734910547">
+    <img align="left" alt="Wudysoft | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://tiktok.com/@upload_file">
+    <img align="left" alt="Vinz | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://instagram.com/_alv.stn">
+    <img align="left" alt="Wudysoft | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:wudysoft@mail.com">
+    <img align="left" alt="Vinz | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+---------
+
+## ```Whatsapp``` <a href="https://wa.me/6287734910547"> <img align="left" alt="Wudysoft | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285171216276) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282195322106) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BAs2c2UeLE8AaI806UWUvI) 
+---------
+

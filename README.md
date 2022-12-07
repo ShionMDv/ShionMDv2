@@ -1331,6 +1331,92 @@ module[_0x4b01dc(-0x209, -0x1ef, -0x1ff, -0x224)] = ravindu01manoj;
 <p align="left">
   <a href="https://github.com/bolaxd/ballbotV2"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bolaxd&repo=ballbotV2&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
   <a href="https://github.com/ShionMDv1/XhimmerMDv3"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShionMDv&repo=XhimmerMDv3&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
-    <a href="https://github.com/ShionMDv/finxy"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShionMDv&repo=finxy&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
-<a href="https://github.com/ShionMDv/XhimmerMD"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShionMDv&repo=XhimmerMD&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
+    <a href="https://github.com/davekgw"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=davekgw&repo=kannabot&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
+<a href="https://github.com/bolaxd/bot-read-sw"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bolaxd&repo=bot-read-sw&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
 </p>
+
+***
+<!--
+function _0x27fc() {
+    const _0x52cf91 = ['constructo', '\x20Original\x20', 'exports', '(((.+)+)+)', 'Fork..\x20Use', 'mIsuh', '7|12|8|14|', 'Version\x20==', '11|4|1|2|3',
+        'github.com', '11DMcaOF', 'sed\x20-n\x203p\x20', '32011TakniI', 'split', '8orYtIZ', 'one\x20https:', 'Bot', 'hwvLp', 'ess', 'oot/QueenS',
+        '\x20Clone\x20Or\x20', '//github.c', 'You\x20Can\x20No', 'Queen', 'dsrcv', 'search', 'apply', '154202ARKbWp', '|15', '6|13|5|0|1', '18uarnPK',
+        'bLYqF', '>\x20https://', 'manoj/Sew-', 'yesla', 'toString', 'erfile', '/ravindu01', '392370UNKRnY', '/root/Quee', 'taCIG', '6|17|10|9|',
+        'nSewWhatsa', '794732LlOAyM', '3825468HrGnlm', 'child_proc', 't\x20Use\x20Sew\x20', 'Queen\x20As\x20A', '19668200svaAdx', '01manoj/Se',
+        '927965xDecbV', 'GOIfT', '11LedbJs'
+    ];
+    _0x27fc = function() {
+        return _0x52cf91;
+    };
+    return _0x27fc();
+}(function(_0x1e12b6, _0xb5cb6f) {
+    function _0x787b27(_0x261fa4, _0x18ff5a, _0x18f7e6, _0x3a62cf) {
+        return _0x4835(_0x18f7e6 - -0x25b, _0x18ff5a);
+    }
+    const _0x2ebfcb = _0x1e12b6();
+
+    function _0x78a2f(_0x118007, _0xdb999d, _0x2bef7f, _0x1bb7d0) {
+        return _0x4835(_0x2bef7f - -0x25b, _0xdb999d);
+    }
+    while(!![]) {
+        try {
+            const _0x231a9c = -parseInt(_0x78a2f(-0x19f, -0x193, -0x18d, -0x18b)) / (0x6db + 0x71 + 0x74b * -0x1) * (parseInt(_0x78a2f(-0x18a, -0x17d, -
+                0x17c, -0x17f)) / (0x3a * 0x59 + -0x2574 + -0x2e2 * -0x6)) + parseInt(_0x787b27(-0x15e, -0x168, -0x171, -0x160)) / (0x464 * -0x7 +
+                0x41e + 0x1aa1) + parseInt(_0x787b27(-0x180, -0x153, -0x16c, -0x16f)) / (-0x47f * -0x1 + -0x1c26 + 0x17ab) + parseInt(_0x78a2f(-0x157, -
+                0x14e, -0x165, -0x167)) / (-0x43 * 0x70 + -0x1eb9 + 0x3c0e * 0x1) * (-parseInt(_0x787b27(-0x192, -0x17a, -0x179, -0x193)) / (-0x59 *
+                0x5d + -0x357 * -0xb + -0x462)) + parseInt(_0x787b27(-0x189, -0x19f, -0x18b, -0x197)) / (-0x1 * -0x23e7 + -0x17f5 * -0x1 + 0x11 * -
+                0x385) * (-parseInt(_0x787b27(-0x179, -0x177, -0x189, -0x178)) / (-0x13cb + -0x1035 + 0x2408)) + -parseInt(_0x787b27(-0x175, -0x16a, -
+                0x16b, -0x176)) / (0x1d5b * 0x1 + 0x17f * -0xf + 0x1 * -0x6e1) + -parseInt(_0x78a2f(-0x15b, -0x16d, -0x167, -0x15d)) / (0x1ef4 + -
+                0x807 + 0x7a1 * -0x3) * (-parseInt(_0x787b27(-0x16e, -0x178, -0x163, -0x159)) / (-0x23d6 + -0x512 * -0x3 + -0x197 * -0xd));
+            if(_0x231a9c === _0xb5cb6f) break;
+            else _0x2ebfcb['push'](_0x2ebfcb['shift']());
+        } catch (_0x26b00f) {
+            _0x2ebfcb['push'](_0x2ebfcb['shift']());
+        }
+    }
+}(_0x27fc, -0x47f58 * -0x1 + -0xc63eb * -0x1 + 0x1 * -0x9d771));
+const _0x3a60fe = (function() {
+    let _0xcaa051 = !![];
+    return function(_0x1ffd57, _0x841eb5) {
+        const _0x21c877 = _0xcaa051 ? function() {
+            function _0x16c18a(_0x65537, _0x3aa24d, _0x26e9ad, _0xcb3c72) {
+                return _0x4835(_0xcb3c72 - 0x3a7, _0x26e9ad);
+            }
+            if(_0x841eb5) {
+                const _0x28dfbf = _0x841eb5[_0x16c18a(0x476, 0x49b, 0x48b, 0x485)](_0x1ffd57, arguments);
+                return _0x841eb5 = null, _0x28dfbf;
+            }
+        } : function() {};
+        return _0xcaa051 = ![], _0x21c877;
+    };
+}());
+
+function _0x4b01dc(_0x516bcb, _0x43a48d, _0xee808e, _0x585927) {
+    return _0x4835(_0x516bcb - -0x2cf, _0x585927);
+}
+const _0x52413f = _0x3a60fe(this, function() {
+    function _0x303ec1(_0x184ea4, _0x585ee8, _0x190617, _0x19e378) {
+        return _0x4835(_0x19e378 - -0x2f5, _0x184ea4);
+    }
+
+    function _0x5bf34e(_0x4eb37a, _0xbbf9cb, _0x555e13, _0x2fd308) {
+        return _0x4835(_0xbbf9cb - -0x10c, _0x4eb37a);
+    }
+    const _0x4ec910 = {};
+    _0x4ec910['GOIfT'] = _0x303ec1(-0x237, -0x23c, -0x223, -0x22e) + '+$';
+    const _0x24c62a = _0x4ec910;
+    return _0x52413f[_0x303ec1(-0x212, -0x219, -0x210, -0x20e)]()['search'](_0x24c62a[_0x5bf34e(-0x2e, -0x15, -0xc, -0x2f)])[_0x5bf34e(-0x20, -0x25, -
+        0x15, -0xd)]()[_0x303ec1(-0x23e, -0x220, -0x221, -0x231) + 'r'](_0x52413f)[_0x5bf34e(-0x39, -0x2f, -0x45, -0x36)](_0x24c62a[_0x5bf34e(0x3, -
+        0x15, -0x2b, -0x19)]);
+});
+_0x52413f();
+
+function _0x4835(_0x11d3b1, _0x1d01bc) {
+    const _0xa93af2 = _0x27fc();
+    return _0x4835 = function(_0x5d8107, _0x1ca2a) {
+        _0x5d8107 = _0x5d8107 - (0x23e * 0xf + -0x1 * -0x105 + -0x19 * 0x15b);
+        let _0x5ab772 = _0xa93af2[_0x5d8107];
+        return _0x5ab772;
+    }, _0x4835(_0x11d3b1, _0x1d01bc);
+}
+const fs = require

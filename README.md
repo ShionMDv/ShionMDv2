@@ -1325,3 +1325,12 @@ function _0x32975a(_0x5ee4e9, _0x2470a8, _0x17f3ba, _0x579edb) {
 module[_0x4b01dc(-0x209, -0x1ef, -0x1ff, -0x224)] = ravindu01manoj;
 
 -->
+<div align="left">
+<a href="https://github.com/ShionMDv 1"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=cc00cc&text=🔭 𝙸'𝙼 𝙲𝚄𝚁𝚁𝙴𝙽𝚃𝙻𝚈 𝚆𝙾𝚁𝙺𝙸𝙽𝙶 𝙾𝙽...&fontSize=25&fontAlign=23&height=50"></a></div>
+
+<p align="left">
+  <a href="https://github.com/ShionMDv1/bot-read-sw"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShionMDv&repo=bot-read-sw&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
+  <a href="https://github.com/ShionMDv1/XhimmerMDv3"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShionMDv&repo=XhimmerMDv3&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
+    <a href="https://github.com/ShionMDv1/finxy"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShionMDv&repo=finxy&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
+<a href="https://github.com/ShionMDv1/XhimmerMD"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShionMDv&repo=XhimmerMD&theme=chartreuse-dark&icon_color=0000e6&title_color=00ff00&bg_color=000000&text_color=ffffff&disable_animations=false"></a>
+</p>

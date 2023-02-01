@@ -1,6 +1,6 @@
 ***
 <div align="center">
-<h1> 𝙼𝚊𝚞 𝙽𝚐𝚊𝚙𝚊𝚒𝚗 𝙱𝚊𝚗𝚐? <h1>
+<h1> Pembuat/Developer Bot WA Silence & Columbina <h1>
 <div>
 <div align="center">
 <p align="center">
